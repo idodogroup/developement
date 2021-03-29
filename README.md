@@ -1,7 +1,4 @@
-# Work at DoDo
-
-Join us to change the future of urban logistics for the better.
-
+# DoDo | Smart city logistics
 [DoDo](http://idodo.cz/en/) is unstoppable!
 * We grow every year not only in the Czech Republic but also abroad and we have big plans.
 * We placed 2nd in the Deloitte Technology Fast 50 CE program in 2020.
@@ -18,6 +15,7 @@ We operate not only in the Czech Republic, but also in other countries such as S
 
 
 ## :rocket: Open positions
+Join us to change the future of urban logistics for the better.
 * [Front-end developer](https://www.pracujvdodo.cz/jobs/front-end-developer/)
 * [Back-end developer](https://www.pracujvdodo.cz/jobs/net-vyvojar-ka/)
 * [.NET core developer for R&D projects](https://www.pracujvdodo.cz/jobs/net-core-developer-research-and-developement/)
