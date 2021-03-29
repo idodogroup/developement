@@ -10,9 +10,14 @@ Based on data, we solve the problems of urban logistics and last miles, in order
 Not only our cars are green, but also our thinking. We use modern technology to deliver as many orders as possible with the lowest possible negative impact on the city. With our own fleet of CNG vehicles, we test new logistics models and routes to ecological logistics. Sustainability and consideration are simply part of everyone's DNA in DoDo.
 
 ## :office: Offices
-In 2021, we moved to the new [Scott.Weber Workspace - Praga Office & Garden](https://goo.gl/maps/tVbaARxErq7eEGBW9) offices. DoDo occupies 2 floors (and one quarter of the highest floor). Almost one whole floor is solely dedicated to the developement team so they have quiet environment for their work.
+In 2021, we moved to the new [Scott.Weber Workspace - Praga Office & Garden](https://goo.gl/maps/tVbaARxErq7eEGBW9) offices near metro B (Křižíkova). DoDo occupies 2 floors (and one quarter of the highest floor). Almost one whole floor is solely dedicated to the developement team so they have quiet environment for their work.
 
-[Citigo](developement/couch_1.jpg)
+<p float="center">
+  <img src="couch_1.jpg" width="40%"/>
+  <img src="couch_2.jpg" width="40%"/> 
+</p>
+
+Also we have this cool couch when you can chill for a while, enjoy a cup of cofee or take a quick meeting. Also we have large terrace which is great for group lunches in summer or while the weather is good.
 
 ## :rocket: Open positions
 Join us to change the future of urban logistics for the better. We do not know bureaucracy, complicated processes and inflexible decision-making. We are a startup and we do not waste time and even though everything is about speed, we can stop. We organize adventurous teambuildings and barbecue parties on our terrace.
