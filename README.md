@@ -12,6 +12,8 @@ Not only our cars are green, but also our thinking. We use modern technology to 
 ## :office: Offices
 In 2021, we moved to the new [Scott.Weber Workspace - Praga Office & Garden](https://goo.gl/maps/tVbaARxErq7eEGBW9) offices. DoDo occupies 2 floors (and one quarter of the highest floor). Almost one whole floor is solely dedicated to the developement team so they have quiet environment for their work.
 
+[Citigo](developement/couch_1.jpg)
+
 ## :rocket: Open positions
 Join us to change the future of urban logistics for the better. We do not know bureaucracy, complicated processes and inflexible decision-making. We are a startup and we do not waste time and even though everything is about speed, we can stop. We organize adventurous teambuildings and barbecue parties on our terrace.
 * [Front-end developer](https://www.pracujvdodo.cz/jobs/front-end-developer/)
