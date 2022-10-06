@@ -1,4 +1,4 @@
-## DODO Development
+## Development at DODO 
 
 > We're Delivery experts.
 > 
@@ -94,7 +94,6 @@ Tomáš Fiurášek leads the entire development department. He makes sure GAIA c
 
 As he is one of the most qualified to talk about GAIA and her development, we recommend listening to the podcasts he has been a guest on.
 🎧 [Fuckupy v IT](https://open.spotify.com/episode/5zAyjg4PX9ICoJflkQ6uaC?si=7p4sMxnATae2AFuTCIF_og)
-
 🎧 [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg)
 
 (Both are in Czech.)
