@@ -17,11 +17,15 @@ We are constantly improving our services and our goal is to be an even stronger 
 As we put our focus to become more of a technology startu-up, we are boosting our development department which is working on a pillar of our business - Logistics platform GAIA.
 
 Contents:
-[🚀 Challenges we are currently solving](#🚀-Challenges-we-are-currently-solving)
-[👨‍💻 Approach to development & our tech stack](#👨‍💻-Approach-to-development-&-our-tech-stack)
-[🤝 Our team & Open vacancies](#🤝-Our-team-&-Open-vacancies)
-[💼 Work at DODO](#💼-Work-at-DODO)
-[👑 Word from our CTO](#👑-Word-from-our-CTO)
+[Challenges we are currently solving](#Challenges-we-are-currently-solving)
+
+[Approach to development & our tech stack](#Approach-to-development-&-our-tech-stack)
+
+[Our team & Open vacancies](#Our-team-&-Open-vacancies)
+
+[Work at DODO](#Work-at-DODO)
+
+[Word from our CTO](#Word-from-our-CTO)
 
 ### 🚀 Challenges we are currently solving
 
@@ -101,6 +105,7 @@ Tomáš Fiurášek leads the entire development department. He makes sure GAIA c
 
 As he is one of the most qualified to talk about GAIA and her development, we recommend listening to the podcasts he has been a guest on.
 🎧 [Fuckupy v IT](https://open.spotify.com/episode/5zAyjg4PX9ICoJflkQ6uaC?si=7p4sMxnATae2AFuTCIF_og)
+
 🎧 [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg)
 
 (Both are in czech.)
