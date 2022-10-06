@@ -43,7 +43,7 @@ We are agile. Teams for which it makes sense, work in 2-week sprints, some teams
 
 Important part of our work are code reviews as we think it is a good practice for newcomers and developers overall. Also it helps us as a team to keep quality code.
 
-###### ⚙️ Tech stack
+**⚙️ Tech stack **
 We are keen on keeping our stack up-to-date. Back-end stack is based mainly on generally known Microsoft technologies as we are a Microsoft Gold Partner. We use .NET 6 framework, our applications run in Azure (Azure Cosmos DB, Storage, SQL, Web Apps, Queue & Functions, Automation, Application Insights, LogicApps, ...), we use Entity Framework and SignalR.
 
 On Front-End we use Angular 13 for web application written in TypeScript and Ionic Framework for mobile application. We keep all our apps in one monorepo (Nrwl Nx) to share code. For mobile development we also use Capacitor that allows us to use native functions of the phone, connection to the card terminal, location of the courier, etc.
@@ -63,7 +63,7 @@ Divided into 4 sub teams. These teams care for specifics projects (Delivery app,
 -	[Front-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1569032291)
 -	[Full Stack Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1593475985)
 
-We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through a job ad or a [mail](mailto:vaclav.petrus@idodo.cz)
+We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through a job ad or a [vaclav.petrus@idodo.cz](mailto:vaclav.petrus@idodo.cz)
 
 **R&D**
 
