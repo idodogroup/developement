@@ -92,8 +92,9 @@ Only time we like whole development department together onsite is a **DevCon** �
 ### 👑 Word from our CTO (aka Technoking of DODO)
 Tomáš Fiurášek leads the entire development department. He makes sure GAIA can do whatever the Product Owners come up with (he's been working on it since the very beginning) and much more. He is also responsible for the budget and costs of the development department. Before Tomáš began to focus on the development of the GAIA platform, he led many development teams and participated in many e-commerce projects.
 
-As he is one of the most qualified to talk about GAIA and her development, we recommend listening to the podcasts he has been a guest on.
-- 🎧 [Fuckupy v IT](https://open.spotify.com/episode/5zAyjg4PX9ICoJflkQ6uaC?si=7p4sMxnATae2AFuTCIF_og)
-- 🎧 [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg)
+As he is one of the most qualified to talk about GAIA and her development, we recommend listening to the podcasts he has been a guest on. 🎧
+
+- [Fuckupy v IT](https://open.spotify.com/episode/5zAyjg4PX9ICoJflkQ6uaC?si=7p4sMxnATae2AFuTCIF_og), where he talkes about the overloading GAIA or DDoS on ourselves and also about the lack of communication between development and operations, or when the dev was ready to deploy a new system, but the operation did not expect it. In his reflection, Tomáš ends on the one hand with the need for better preparation of the future IT generation for "real life" and functioning in companies, but also with how he would like us to be bolder in innovation and trying new paths.
+- [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg), where he admits that he still programs and commits to something small here and there - even from the position of CTO. He talks about complications of last mile but also about opportunities.
 
 (Both are in Czech.)
