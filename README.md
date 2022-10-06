@@ -10,9 +10,18 @@ That’s our vision, which we are following. We manage our company-wide strategy
 
 ### ℹ️ About DODO
 
-We're DODO, a technology and logistics company that provides comprehensive solutions in the field of urban logistics. We are constantly improving our services and our goal is to be an even stronger partner for B2B clients in e-commerce, retail, or fast food. From an originally small start-up, we have grown into a stable company that currently operates in seven countries and is expanding into other European markets.
+We're DODO, a technology and logistics company that provides comprehensive solutions in the field of urban logistics. DODO was founded in 2015 as a start-up with personal assistant services. However, we quickly expanded our logistics services and launched delivery in the country’s largest cities. In 2018, we expanded into Slovakia and Poland. We are now operating in seven countries and are still growing.
 
-DODO was founded in 2015 as a start-up with personal assistant services. However, we quickly expanded our logistics services and launched delivery in the country’s largest cities. In 2018, we expanded into Slovakia and Poland. We are now operating in seven countries and are still growing.
+We are constantly improving our services and our goal is to be an even stronger partner for B2B clients in e-commerce, retail, or fast food. From an originally small start-up, we have grown into a stable company that currently operates in seven countries and is expanding into other European markets.
+
+As we put our focus to become more of a technology startu-up, we are boosting our development department which is working on a pillar of our business - Logistics platform GAIA.
+
+Contents:
+[🚀 Challenges we are currently solving](#🚀-Challenges-we-are-currently-solving)
+[👨‍💻 Approach to development & our tech stack](#👨‍💻-Approach-to-development-&-our-tech-stack)
+[🤝 Our team & Open vacancies](#🤝-Our-team-&-Open-vacancies)
+[💼 Work at DODO](#💼-Work-at-DODO)
+[👑 Word from our CTO](#👑-Word-from-our-CTO)
 
 ### 🚀 Challenges we are currently solving
 
@@ -30,7 +39,7 @@ You won’t miss our iconic green cars. But it’s not just our large fleet of C
 
 ### 👨‍💻 Approach to development & our tech stack
 
-We are Agile. Teams for which it makes sense, work in 2-week sprints, some teams (for instance research and development team) where tasks are not possible to split into tasks which would fit into sprints use Kanban. We are not working exactly as Scrum Guide dictates, but we bend Scrum, so it works for us. But you still will find these ceremonies in your calendar:
+We are agile. Teams for which it makes sense, work in 2-week sprints, some teams (for instance research and development team) where tasks are not possible to split into tasks which would fit into sprints use Kanban. We are not working exactly as Scrum Guide dictates, but we bend Scrum, so it works for us. But you still will find these ceremonies in your calendar:
 - Sprint planning
 - Sprint review
 - Sprint retrospective
@@ -39,9 +48,14 @@ We are Agile. Teams for which it makes sense, work in 2-week sprints, some teams
 > 
 > Depends on the team. Some smaller teams meet through Slack to call. But mostly we use [Standup Alice](https://standupalice.com/) a Slack bot.
 
+Important part of our work are code reviews as we think it is a good practice for newcomers and developers overall. Also it helps us as a team to keep quality code.
+
+###### ⚙️ Tech stack
 We are keen on keeping our stack up-to-date. Back-end stack is based mainly on generally known Microsoft technologies as we are a Microsoft Gold Partner. We use .NET 6 framework, our applications run in Azure (Azure Cosmos DB, Storage, SQL, Web Apps, Queue & Functions, Automation, Application Insights, LogicApps, ...), we use Entity Framework and SignalR.
 
-On Front-End we use Angular 13 for web application written in TypeScript and Ionic Framework for mobile application. We keep all our apps in one monorepo (Nrwl Nx) to share code.
+On Front-End we use Angular 13 for web application written in TypeScript and Ionic Framework for mobile application. We keep all our apps in one monorepo (Nrwl Nx) to share code. For mobile development we also use Capacitor that allows us to use native functions of the phone, connection to the card terminal, location of the courier, etc.
+
+We are also working on our own new design system, so we keep visual style unified, clean and that it can be shared through all our apps. In the past we used 3rd party components, but it wasn’t the best way to go as we have more and more applications are updated. Also, we have a Coder In our design team who oversees the CSS architecture.
 
 ### 🤝 Our team & Open vacancies
 
@@ -49,17 +63,20 @@ As DODO grows in terms of number of partners, employees, and cities we are deliv
 
 Our development team in 2 years became development department which now counts about 70 people and 8 main teams with distinct competencies.
 
-**Software Development**
+###### Software Development
 Divided into 4 sub teams. These teams care for specifics projects (Delivery app, picking app, customer portal, order tracking, …) and are composed of a Tech / Team Lead and both Back-End and Front-End Developer (and some Full Stack Developers).
 -	[Back-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1559198109)
 -	[Front-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1569032291)
 -	[Full Stack Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1593475985)
 
-We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through job ad or a [mail](mailto:vaclav.petrus@idodo.cz)
+We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through a job ad or a [mail](mailto:vaclav.petrus@idodo.cz)
 
-**R&D**
+###### R&D
 Divided into 2 sub teams. R&D pushes technological innovation and oversees 2 strategic long-term projects – Tyche and Kronos. One is engine for planning routes and capacity optimalization and the other one is an algorithm that can predict our free capacities in individual zones based on historical data.
 -	[R&D Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1580368369)
+
+> **Which team will I work in?**
+> Hard to say. We are trying to identify needs for new developers for product teams in advance, but not always we are hiring for specific team. We are deciding this based on current need in time of onboarding and we try considering your interest – are you interested more into technical problems, infrastructure etc.? Or would you like to communicate with our partners?
 
 ### 💼 Work at DODO
 
@@ -78,3 +95,12 @@ We are also open to remote work and home office. For product activities, persona
 > Not really, there are developers who are working from Slovakia or different corners of Czechia and choose to come to office once per 2 weeks to attend sprint plannings, retrospectives and other scrum meetings, but it is not something we require. Mostly these ceremonies are mix of remote and onsite colleagues.
 
 Only time we like whole development department together onsite is a **DevCon** – day which is devoted to retrospective on previous quarter where teams are presenting what they have been doing and what is their focus in next quarter. Part of DevCon is often workshop on different topics, Q&A from our CTO, and member of dev board (Head of Development, Head of Product, Head of QA, etc.). Important part of DevCon is also a dinner, beer, and leisure activities (laser game is especially popular) to bond with both new and old colleagues.
+
+### 👑 Word from our CTO (aka Technoking of DODO)
+Tomáš Fiurášek leads the entire development department. He makes sure GAIA can do whatever the Product Owners come up with (he's been working on it since the very beginning) and much more. He is also responsible for the budget and costs of the development department. Before Tomáš began to focus on the development of the GAIA platform, he led many development teams and participated in many e-commerce projects.
+
+As he is one of the most qualified to talk about GAIA and her development, we recommend listening to the podcasts he has been a guest on.
+🎧 [Fuckupy v IT](https://open.spotify.com/episode/5zAyjg4PX9ICoJflkQ6uaC?si=7p4sMxnATae2AFuTCIF_og)
+🎧 [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg)
+
+(Both are in czech.)
