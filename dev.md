@@ -57,6 +57,7 @@ As DODO grows in terms of number of partners, employees, and cities we are deliv
 Our development team in 2 years became development department which now counts about 70 people and 8 main teams with distinct competencies.
 
 **Software Development**
+
 Divided into 4 sub teams. These teams care for specifics projects (Delivery app, picking app, customer portal, order tracking, …) and are composed of a Tech / Team Lead and both Back-End and Front-End Developer (and some Full Stack Developers).
 -	[Back-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1559198109)
 -	[Front-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1569032291)
@@ -65,6 +66,7 @@ Divided into 4 sub teams. These teams care for specifics projects (Delivery app,
 We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through a job ad or a [mail](mailto:vaclav.petrus@idodo.cz)
 
 **R&D**
+
 Divided into 2 sub teams. R&D pushes technological innovation and oversees 2 strategic long-term projects – Tyche and Kronos. One is engine for planning routes and capacity optimalization and the other one is an algorithm that can predict our free capacities in individual zones based on historical data.
 -	[R&D Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1580368369)
 
