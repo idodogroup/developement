@@ -66,13 +66,14 @@ Divided into 4 sub teams. These teams care for specifics projects (Delivery app,
 
 We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through a job ad or a [vaclav.petrus@idodo.cz](mailto:vaclav.petrus@idodo.cz)
 
+> **Which team will I work in?**
+> 
+> Hard to say. We are trying to identify needs for new developers for product teams in advance, but not always we are hiring for specific team. We are deciding this based on current need in time of onboarding and we try considering your interest – are you interested more into technical problems, infrastructure etc.? Or would you like to communicate with our partners?
+
 **R&D**
 
 Divided into 2 sub teams. R&D pushes technological innovation and oversees 2 strategic long-term projects – Tyche and Kronos. One is engine for planning routes and capacity optimalization and the other one is an algorithm that can predict our free capacities in individual zones based on historical data.
 -	[R&D Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1580368369)
-
-> **Which team will I work in?**
-> Hard to say. We are trying to identify needs for new developers for product teams in advance, but not always we are hiring for specific team. We are deciding this based on current need in time of onboarding and we try considering your interest – are you interested more into technical problems, infrastructure etc.? Or would you like to communicate with our partners?
 
 ### 💼 Work at DODO
 
