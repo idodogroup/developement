@@ -16,17 +16,6 @@ We are constantly improving our services and our goal is to be an even stronger 
 
 As we put our focus to become more of a technology startu-up, we are boosting our development department which is working on a pillar of our business - Logistics platform GAIA.
 
-Contents:
-[Challenges we are currently solving](#Challenges-we-are-currently-solving)
-
-[Approach to development & our tech stack](#Approach-to-development-&-our-tech-stack)
-
-[Our team & Open vacancies](#Our-team-&-Open-vacancies)
-
-[Work at DODO](#Work-at-DODO)
-
-[Word from our CTO](#Word-from-our-CTO)
-
 ### 🚀 Challenges we are currently solving
 
 You won’t miss our iconic green cars. But it’s not just our large fleet of CNG vehicles that makes us a sought-after B2B logistics partner. Our unique product is GAIA, a logistics platform through which the dispatching department communicates with couriers as well as the complete organization and planning of orders from our clients. Through the collected data, we optimize all processes and other functions. Our goal is to make urban logistics more efficient and sustainable.
@@ -108,4 +97,4 @@ As he is one of the most qualified to talk about GAIA and her development, we re
 
 🎧 [ScripTease](https://open.spotify.com/episode/653nvD34xrJulpGvqixQfM?si=e_onKgbBRtaw3H4EffBQVg)
 
-(Both are in czech.)
+(Both are in Czech.)
