@@ -55,8 +55,10 @@ Divided into 4 sub teams. These teams care for specifics projects (Delivery app,
 -	[Front-End Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1569032291)
 -	[Full Stack Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1593475985)
 
+We are aiming to strenghten current teams but also build new ones for new projects, innovations or integrations. So feel free to contact us through job ad or a [mail](mailto:vaclav.petrus@idodo.cz)
+
 **R&D**
-Divided into 2 sub teams. R&D pushes technological innovation and oversees 2 strategic long-term projects – Tyché and Chronos. One is engine for planning routes and capacity optimalization and the other one is an algorithm that can predict our free capacities in individual zones based on historical data.
+Divided into 2 sub teams. R&D pushes technological innovation and oversees 2 strategic long-term projects – Tyche and Kronos. One is engine for planning routes and capacity optimalization and the other one is an algorithm that can predict our free capacities in individual zones based on historical data.
 -	[R&D Developer](https://www.pracujvdodo.cz/volne-pozice/?r=detail&id=1580368369)
 
 ### 💼 Work at DODO
