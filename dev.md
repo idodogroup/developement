@@ -43,7 +43,7 @@ We are agile. Teams for which it makes sense, work in 2-week sprints, some teams
 
 Important part of our work are code reviews as we think it is a good practice for newcomers and developers overall. Also it helps us as a team to keep quality code.
 
-**⚙️ Tech stack **
+⚙️ **Tech stack**
 
 We are keen on keeping our stack up-to-date. Back-end stack is based mainly on generally known Microsoft technologies as we are a Microsoft Gold Partner. We use .NET 6 framework, our applications run in Azure (Azure Cosmos DB, Storage, SQL, Web Apps, Queue & Functions, Automation, Application Insights, LogicApps, ...), we use Entity Framework and SignalR.
 
